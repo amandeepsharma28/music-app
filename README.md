@@ -1,22 +1,28 @@
-# music-app
-Rythmic
--Rythmic Music App is a one page application.
+# Rythmic
+## React.js, Node.js, Postgres
+- Rythmic Music App is a one page application.
 
--used Discogs rest APIs to search Artist.
+- Front end is designed with React.js.
 
--create the playlist from the searched artist albums and display the playlist
+- used Discogs rest APIs to search Artists.
 
--created Restful APIs to interact with the Database
+- create the playlist from the searched artist albums and display the playlist
 
-Languages And Technologies Used
--Node.js
+- created Restful APIs with Node.js to interact with the Postgres Database
 
--React.js
+## What I did
+- This projects is built by the team of 3 members
 
--Postgres
+- Worked on the Back-end
 
--HTML5
+- Designed the database to store the albums in a playlist.
 
--CSS3
+- Created the Restful APIs with Node.js to interact with the database.
 
--JavaScript
+## Team 
+- Amandeep Sharma
+
+- Gursharan Kaur
+
+- Sukhwinder Kaur
+
